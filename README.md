@@ -1,6 +1,6 @@
 # Snake-game
 
-Team member is Alinur Satylganov and Marat uulu Chyngyzkhan
+Team members: Alinur Satylganov and Marat uulu Chyngyzkhan
 
 ### Game for Final exam
 
